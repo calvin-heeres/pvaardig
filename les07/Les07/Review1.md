@@ -7,7 +7,7 @@ Er rijden meer auto's op de wegen, op het voetpad lopen meer voetgangers (dus me
 
 Dit jaar hebben wij (en jij waarschijnlijk ook) een hele berg games op de PlayStation 4 en Xbox One voorbij zien komen. Daarom zal het op het eerste gezicht misschien niet opvallen hoe Grand Theft Auto V er op vooruit gegaan is ten opzichte van het origineel. Pas als je de game op de PS3 of Xbox 360 opstart zie je de verbeteringen echt goed, zoals de scherpere gezichten en prachtig glimmende auto's.
 
-![plaatje2](./images/2.jpg)
+![plaatje2](./Images/2.jpg)
 
 # Grand Theft Auto 5 is opgepoetst
 Het gaat natuurlijk nog steeds om een opgepoetste versie van een old-gen game, dus zijn er wat ruwe randjes op grafisch vlak. Zo kun je nu verder kijken, maar zijn sommige gebouwen wel erg vaag en blokkerig als je er nog ver vandaan bent. Pas als je dichtbij komt zie je vanzelf de textures erop verschijnen.
@@ -18,7 +18,7 @@ De game ziet er dus bijna altijd prachtig uit, maar als je dan ineens de texture
 
 stepersoonsperspectief, en dat is voor een GTA-game een bizarre en unieke ervaring.
 
-![plaatje3](./images/3.jpg)
+![plaatje3](./Images/3.jpg)
 
 # Een nieuw perspectief
 Ineens loop je echt op de straten van de grote stad, en kijk je de inwoners recht in de ogen. Rockstar heeft heel wat moeite gedaan om deze first-person modus volwaardige te maken maken, zodat je onder meer kunt inzoomen met je geweer, en met een nieuw coversysteem ook vanuit first-person dekking kunt zoeken.
@@ -27,7 +27,7 @@ Toch merkten we dat we in hectische momenten snel terug wisselden naar het overz
 
 GTA Online is ook terug,en heeft op het moment van schrijven nog geen serverproblemen. Het is natuurlijk even afwachten of de game ook vandaag nog zo soepel loopt als er duizenden gamers tegelijk willen verbinden, maar het ziet er naar uit dat Rockstar niet dezelfde fout maakt als bij de originele lancering van Grand Theft Auto Online.
 
-![plaatje4](./images/4.jpg)
+![plaatje4](./Images/4.jpg)
 
 # Met 30 man knallen in GTA Online
 Een compleet nieuwe karakter-creation menu zorgt er bovendien voor dat je helemaal je eigen poppetje kunt maken in GTA Online. In het origineel kon je alleen je voorouders kiezen, waar vervolgens een poppetje uit kwam rollen. Dat is hier wederom van de partij, maar laat je daarna ook tal van opties naar eigen smaak aanpassen, zoals de vorm van de neus, kin en welke baard en kapsel je hebt.
@@ -36,7 +36,7 @@ Een flink pluspunt van Grand Theft Auto Online is het feit dat je nu met maximaa
 
 Als je de originele Grand Theft Auto V gespeeld hebt, is dit echter helemaal niet nodig. Met een druk op de knop (en je Rockstar Social Club account) haal je jouw GTA Online personage namelijk naar de volgende generatie. Zelfs als je van een Xbox 360 naar een PlayStation 4 gaat, is dit geen probleem. Enorm handig als je al een personage geleveld hebt, en je niet helemaal opnieuw wilt beginnen.
 
-![plaatje5](./images/5.jpg)
+![plaatje5](./Images/5.jpg)
 
 # Extra's voor GTA-veteranen
 Voor deze veteranen heeft Rockstar ook nog een aantal extra functies toegevoegd, die alleen de spelers krijgen die het origineel op de Xbox 360 en PlayStation 3 gespeeld hebben. Zo zijn er exclusieve wapens en voertuigen, en kun je een moordzaak oplossen met Michael door een spoor van aanwijzingen te volgen.
@@ -45,7 +45,7 @@ Of dit genoeg is om de game opnieuw aan te schaffen, is lastig te zeggen. Het ga
 
 Waar we wel van balen, zijn de laadtijden. Toen we het origineel opstartten, gingen we altijd even drinken pakken en een broodje smeren, omdat het zo lang duurde voordat de game geladen was. Wij hoopten dat de next-gen versie van Grand Theft Auto V dit opgelost zou hebben, maar het duurt nog steeds behoorlijk lang om te beginnen met spelen. Jammer, maar gelukkig hoef je per speelsessie maar één keer te laden aan het begin.
 
-![plaatje6](./images/6.jpg)
+![plaatje6](./Images/6.jpg)
 
 # Terug naar Los Santos
 Als je GTA V overgeslagen hebt op de Xbox 360 en PlayStation 3, dan heb je nu echt geen excuus meer om deze legendarische titel te missen, en als je nog steeds met vrienden losgaat in Grand Theft Auto Online, dan kun je ook overwegen om deze betere editie aan te schaffen.
