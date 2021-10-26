@@ -1,22 +1,22 @@
-<p>Laten we maar meteen met de deur in huis vallen: Grand Theft Auto V is ook een jaar na dato nog steeds een sublieme game, die je simpelweg gespeeld moet hebben. Het verhaal van de drie verschillende hoofdpersonages is nog net zo overtuigend, komisch en spannend tegelijk, en ook de wereld van Los Santos bloeit van het leven. Sterker nog, de next-gen versie van GTA V is levendiger dan ooit.</p>
+Laten we maar meteen met de deur in huis vallen: Grand Theft Auto V is ook een jaar na dato nog steeds een sublieme game, die je simpelweg gespeeld moet hebben. Het verhaal van de drie verschillende hoofdpersonages is nog net zo overtuigend, komisch en spannend tegelijk, en ook de wereld van Los Santos bloeit van het leven. Sterker nog, de next-gen versie van GTA V is levendiger dan ooit.
 
 ![plaatje1](./images/1.jpg)
 
 # Meer, meer meer Grand Theft Auto 5
-<p>Er rijden meer auto's op de wegen, op het voetpad lopen meer voetgangers (dus meer doelwitten!) rond, en in de wildernis zijn er meer dieren te vinden om op te jagen. Het eerste wat je echter zult merken van de upgrade, zijn de graphics, die er flink op vooruit zijn gegaan.</p>
+Er rijden meer auto's op de wegen, op het voetpad lopen meer voetgangers (dus meer doelwitten!) rond, en in de wildernis zijn er meer dieren te vinden om op te jagen. Het eerste wat je echter zult merken van de upgrade, zijn de graphics, die er flink op vooruit zijn gegaan.
 
-<p>Dit jaar hebben wij (en jij waarschijnlijk ook) een hele berg games op de PlayStation 4 en Xbox One voorbij zien komen. Daarom zal het op het eerste gezicht misschien niet opvallen hoe Grand Theft Auto V er op vooruit gegaan is ten opzichte van het origineel. Pas als je de game op de PS3 of Xbox 360 opstart zie je de verbeteringen echt goed, zoals de scherpere gezichten en prachtig glimmende auto's.</p>
+Dit jaar hebben wij (en jij waarschijnlijk ook) een hele berg games op de PlayStation 4 en Xbox One voorbij zien komen. Daarom zal het op het eerste gezicht misschien niet opvallen hoe Grand Theft Auto V er op vooruit gegaan is ten opzichte van het origineel. Pas als je de game op de PS3 of Xbox 360 opstart zie je de verbeteringen echt goed, zoals de scherpere gezichten en prachtig glimmende auto's.
 
 ![plaatje2](./images/2.jpg)
 
 # Grand Theft Auto 5 is opgepoetst
-<p>Het gaat natuurlijk nog steeds om een opgepoetste versie van een old-gen game, dus zijn er wat ruwe randjes op grafisch vlak. Zo kun je nu verder kijken, maar zijn sommige gebouwen wel erg vaag en blokkerig als je er nog ver vandaan bent. Pas als je dichtbij komt zie je vanzelf de textures erop verschijnen.</p>
+Het gaat natuurlijk nog steeds om een opgepoetste versie van een old-gen game, dus zijn er wat ruwe randjes op grafisch vlak. Zo kun je nu verder kijken, maar zijn sommige gebouwen wel erg vaag en blokkerig als je er nog ver vandaan bent. Pas als je dichtbij komt zie je vanzelf de textures erop verschijnen.
 
-<p>Dit is natuurlijk geen game-brekend probleem, maar omdat alles in een straal van 50 meter zo scherp en kleurrijk is, valt een wazig flatgebouw ineens extra goed op. Er is een optie om dit bewuste, wazige effect uit te zetten, maar daar doelen we hier niet op. De draw distance is namelijk uitgebreid, maar dat levert soms vergezichten op met lage textures.</p>
+Dit is natuurlijk geen game-brekend probleem, maar omdat alles in een straal van 50 meter zo scherp en kleurrijk is, valt een wazig flatgebouw ineens extra goed op. Er is een optie om dit bewuste, wazige effect uit te zetten, maar daar doelen we hier niet op. De draw distance is namelijk uitgebreid, maar dat levert soms vergezichten op met lage textures.
 
-<p>De game ziet er dus bijna altijd prachtig uit, maar als je dan ineens de textures op een grote toren ziet verschijnen als je in de buurt komt, merk je dit extra goed.</p>
+De game ziet er dus bijna altijd prachtig uit, maar als je dan ineens de textures op een grote toren ziet verschijnen als je in de buurt komt, merk je dit extra goed.
 
-<p>stepersoonsperspectief, en dat is voor een GTA-game een bizarre en unieke ervaring.</p>
+stepersoonsperspectief, en dat is voor een GTA-game een bizarre en unieke ervaring.
 
 ![plaatje3](./images/3.jpg)
 
