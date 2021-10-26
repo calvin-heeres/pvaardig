@@ -1,6 +1,6 @@
 Laten we maar meteen met de deur in huis vallen: Grand Theft Auto V is ook een jaar na dato nog steeds een sublieme game, die je simpelweg gespeeld moet hebben. Het verhaal van de drie verschillende hoofdpersonages is nog net zo overtuigend, komisch en spannend tegelijk, en ook de wereld van Los Santos bloeit van het leven. Sterker nog, de next-gen versie van GTA V is levendiger dan ooit.
 
-![plaatje1](/images/1.jpg)
+![plaatje1](./Images/1.jpg)
 
 # Meer, meer meer Grand Theft Auto 5
 Er rijden meer auto's op de wegen, op het voetpad lopen meer voetgangers (dus meer doelwitten!) rond, en in de wildernis zijn er meer dieren te vinden om op te jagen. Het eerste wat je echter zult merken van de upgrade, zijn de graphics, die er flink op vooruit zijn gegaan.
